@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "第一周学习/1-启动的基础概念学习要求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1-启动的基础概念学习要求"
             }
           }
         ]
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,5 +191,18 @@
     }
   },
   "active": "5c0f609ab59e3237",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "第一周学习/培训要求.md",
+    "第一周学习/第一次教学笔记.md",
+    "第一周学习/第一周任务：.md",
+    "第一周学习/1-启动的基础概念学习要求.md",
+    "README.md",
+    "第一周学习/82947508ca6213c58a1c5205434fb45c.png",
+    "第一周学习/7c0ecd79fd4931810a0522276e074faf.png",
+    "第一周学习/7bf774974c465846abb6c8055f547e20.png",
+    "第一周学习/6802a57e3ffec77230843d59b08b9024.jpg",
+    "第一周学习/10d87cd12c55cc46f9b6c75418c45e88.png",
+    "第一周学习",
+    "未命名"
+  ]
 }
