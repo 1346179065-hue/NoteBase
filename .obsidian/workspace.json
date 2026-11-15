@@ -11,14 +11,12 @@
             "id": "5c0f609ab59e3237",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "第一周学习/培训要求.md",
-                "mode": "source",
-                "source": false
+                "file": "第一周学习/笔记图片/1.png"
               },
-              "icon": "lucide-file",
-              "title": "培训要求"
+              "icon": "lucide-image",
+              "title": "1"
             }
           }
         ]
@@ -190,18 +188,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d3c94a1471685c",
+  "active": "5c0f609ab59e3237",
   "lastOpenFiles": [
+    "第一周学习/笔记图片/5.png",
+    "第一周学习/笔记图片/4.jpg",
+    "第一周学习/笔记图片/3.png",
+    "第一周学习/笔记图片/2.png",
+    "第一周学习/笔记图片/1.png",
     "第一周学习/1-启动的基础概念学习要求.md",
     "第一周学习/培训要求.md",
-    "第一周学习/第一次教学笔记.md",
     "第一周学习/第一周任务：.md",
-    "README.md",
+    "第一周学习/第一次教学.md",
+    "第一周学习/1.png",
+    "第一周学习/笔记图片",
+    "第一周学习/新建文件夹",
     "第一周学习/82947508ca6213c58a1c5205434fb45c.png",
-    "第一周学习/7c0ecd79fd4931810a0522276e074faf.png",
-    "第一周学习/7bf774974c465846abb6c8055f547e20.png",
-    "第一周学习/6802a57e3ffec77230843d59b08b9024.jpg",
-    "第一周学习/10d87cd12c55cc46f9b6c75418c45e88.png",
+    "第一周学习/5.png",
+    "第一周学习/4.jpg",
+    "第一周学习/3.png",
+    "README.md",
     "第一周学习",
     "未命名"
   ]
